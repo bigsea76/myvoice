@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
     String url = "http://tsn.baidu.com/text2audio"; // 可以使用https
 
+    //cuid
     String cuid = "1234567JAVA";
 
     String strTextSound = "";
